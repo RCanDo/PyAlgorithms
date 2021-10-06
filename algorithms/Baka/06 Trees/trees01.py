@@ -19,7 +19,7 @@ sources:
     - title: Python Data Structures And Algorithms
       chapter: 06 Trees
       pages: 131-
-      link: "D:/bib/Python/pythondatastructuresandalgorithms.pdf"
+      link: "E:/bib/Python/pythondatastructuresandalgorithms.pdf"
       date: 2017-05
       authors:
           - fullname: Benjamin Baka
@@ -456,6 +456,7 @@ t.root.degree
 
 
 ll = t.traverse_depth()
+ll
 
 #%%
 t = BST([3, 6, 4, 9, 1, 0, 5, 7, 8, 2])
